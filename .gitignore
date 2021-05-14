@@ -1,0 +1,5 @@
+log/
+gin.log
+data.json
+.idea
+vendor/
